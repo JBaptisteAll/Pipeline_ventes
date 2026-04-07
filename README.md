@@ -14,3 +14,7 @@ Le Produit D est le plus performant avec 1 679,79 €, suivi du Produit E (1 399
 
 c) Ventes par région  
 Lyon est la ville qui génère le plus de chiffre d'affaires (1 059,79 €), suivie de Marseille (1 009,73 €) et Bordeaux (829,81 €). Paris se situe en milieu de classement (799,80 €), tandis que Lille enregistre le chiffre d'affaires le plus faible (249,93 €).
+
+<p align="center">
+  <img src="https://github.com/JBaptisteAll/Pipeline_ventes/assets\01_schema_architecture_pipeline_ventes.drawio.png" alt="Texte alternatif" width="1000">
+</p>  
