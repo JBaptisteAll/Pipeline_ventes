@@ -1,0 +1,13 @@
+services:
+ 
+  sqlite:
+    image: nouchka/sqlite3
+    volumes:
+      - ./data:/data
+ 
+  python:
+    build: .
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      - sqlite
