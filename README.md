@@ -1,6 +1,6 @@
 # Pipeline_ventes — Test Engineering Wild Code School x Simplon
 
-Ce projet a été réalisé dans le cadre de la préparation à la journée de sélection pour le parcours **Data Engineer** (Wild Code School / Simplon).
+Ce projet a été réalisé dans le cadre d'une' préparation **Data Engineer**.
 
 L'objectif : construire un pipeline de données complet, de la collecte des données brutes jusqu'au stockage des résultats d'analyse, en passant par le nettoyage, la validation et l'import en base de données.
 
